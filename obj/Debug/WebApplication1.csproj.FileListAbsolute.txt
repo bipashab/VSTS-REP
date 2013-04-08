@@ -1,0 +1,5 @@
+D:\OmnibusAdapter\GITHUB\GitHub Repository\VSTS Project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\OmnibusAdapter\GITHUB\GitHub Repository\VSTS Project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\OmnibusAdapter\GITHUB\GitHub Repository\VSTS Project\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\OmnibusAdapter\GITHUB\GitHub Repository\VSTS Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\OmnibusAdapter\GITHUB\GitHub Repository\VSTS Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
